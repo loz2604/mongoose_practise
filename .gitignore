@@ -1,6 +1,7 @@
 
-# Created by https://www.toptal.com/developers/gitignore/api/node,windows,visualstudiocode
-# Edit at https://www.toptal.com/developers/gitignore?templates=node,windows,visualstudiocode
+node_modules
+# Created by https://www.toptal.com/developers/gitignore/api/node
+# Edit at https://www.toptal.com/developers/gitignore?templates=node
 
 ### Node ###
 # Logs
@@ -126,6 +127,11 @@ dist
 # Serverless Webpack directories
 .webpack/
 
+# End of https://www.toptal.com/developers/gitignore/api/node
+
+# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json
@@ -168,4 +174,4 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
-# End of https://www.toptal.com/developers/gitignore/api/node,windows,visualstudiocode
+# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode
